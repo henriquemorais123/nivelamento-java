@@ -13,6 +13,9 @@ public class uri1067 {
 				System.out.println(i);
 			}
 		}
+		if(x % 2 == 1) {
+			System.out.println(x);
+		}
 		
 		sc.close();
 	}
